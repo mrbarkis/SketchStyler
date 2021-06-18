@@ -1,7 +1,8 @@
 # SketchStyler
 
-Sketch an idea using black, red, green, and blue pens, and then convert its digital scan to match any three color palette. For example,
-<img src="original.jpg" title="Input" alt="original sketch" width="50%"/><img src="output.png" title="Output" alt="modified sketch" width="50%"/>
+Sketch an idea using black, red, green, and blue pens, and then change the colors to fit your theme. For example,
+
+<img src="original.jpg" title="Input" alt="original sketch" width="40%"/><img src="output.png" title="Output" alt="modified sketch" width="40%"/>
 
 conversion was made with the command
 ```console
@@ -13,7 +14,6 @@ where rgb2.py script was told to
 * replace blue with dark cerulean (0,73,114)
 * use white as transparent alpha channel.
 
-This way, hand
 
 # Installation
 
