@@ -1,0 +1,18 @@
+# Hidden folders
+.ipynb_checkpoints
+.pytest_cache
+.env
+
+# Junk files
+__pycache__
+*~
+*.swp
+
+# unimportant files
+proof_of_concept.ipynb
+adjusted.png
+
+# Build related stuff
+dist
+build
+*.egg-info
